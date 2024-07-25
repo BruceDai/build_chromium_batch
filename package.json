@@ -1,0 +1,17 @@
+{
+  "name": "gen_md5",
+  "version": "1.0.0",
+  "description": "Generate md5 file for chrome-win32.zip",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "MD5"
+  ],
+  "author": "feng.dai@intel.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
